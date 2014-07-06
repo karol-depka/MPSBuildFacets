@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="FacetAspectDescriptor.java" startLine="17" startPosition="15" endLine="21" endPosition="5" unitName="BFacets4.plugin.FacetAspectDescriptor$1" />
+  <unitInfo fileName="FacetAspectDescriptor.java" startLine="9" startPosition="0" endLine="24" endPosition="0" unitName="BFacets4.plugin.FacetAspectDescriptor" />
+  <unitInfo fileName="FacetManifest.java" startLine="24" startPosition="55" endLine="28" endPosition="5" unitName="BFacets4.plugin.FacetManifest$1" />
+  <unitInfo fileName="FacetManifest.java" startLine="12" startPosition="0" endLine="31" endPosition="0" unitName="BFacets4.plugin.FacetManifest" />
+  <root nodeRef="r:3407fc94-aa78-4309-a3d9-bbdf33ee768c(BFacets4.plugin)/1534429123292255749">
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="37" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="targets" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="38" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="name" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="40" startPosition="26" endLine="41" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="44" startPosition="38" endLine="45" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="48" startPosition="43" endLine="49" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="52" startPosition="43" endLine="53" endPosition="154" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="56" startPosition="43" endLine="57" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="60" startPosition="32" endLine="61" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="64" startPosition="57" endLine="65" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="69" startPosition="0" endLine="70" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="EXPECTED_INPUT" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="70" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="EXPECTED_OUTPUT" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="71" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="name" />
+    <nodeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="79" startPosition="173" endLine="80" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="80" startPosition="56" endLine="81" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123295913296" fileName="BFacet4_Facet.java" startLine="83" startPosition="19" endLine="84" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="1534429123292377369" fileName="BFacet4_Facet.java" startLine="86" startPosition="51" endLine="87" endPosition="159" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123292386350" fileName="BFacet4_Facet.java" startLine="87" startPosition="159" endLine="88" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="1534429123296044368" fileName="BFacet4_Facet.java" startLine="93" startPosition="31" endLine="94" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123296044376" fileName="BFacet4_Facet.java" startLine="96" startPosition="31" endLine="97" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123297485714" fileName="BFacet4_Facet.java" startLine="98" startPosition="116" endLine="99" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123297534883" fileName="BFacet4_Facet.java" startLine="99" startPosition="106" endLine="100" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123296044379" fileName="BFacet4_Facet.java" startLine="100" startPosition="80" endLine="101" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123296044407" fileName="BFacet4_Facet.java" startLine="101" startPosition="105" endLine="102" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123296044413" fileName="BFacet4_Facet.java" startLine="102" startPosition="64" endLine="103" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123296044430" fileName="BFacet4_Facet.java" startLine="103" startPosition="96" endLine="104" endPosition="137" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123296044441" fileName="BFacet4_Facet.java" startLine="104" startPosition="137" endLine="105" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123296044454" fileName="BFacet4_Facet.java" startLine="109" startPosition="49" endLine="110" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+    <nodeInfo nodeId="1534429123296044458" fileName="BFacet4_Facet.java" startLine="113" startPosition="25" endLine="114" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="1534429123292377390" fileName="BFacet4_Facet.java" startLine="116" startPosition="21" endLine="117" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="120" startPosition="20" endLine="121" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="127" startPosition="35" endLine="128" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="131" startPosition="46" endLine="132" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="135" startPosition="43" endLine="136" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="139" startPosition="47" endLine="140" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="143" startPosition="44" endLine="144" endPosition="115" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="147" startPosition="35" endLine="148" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="151" startPosition="33" endLine="152" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="155" startPosition="36" endLine="156" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="159" startPosition="37" endLine="160" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="163" startPosition="65" endLine="164" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="167" startPosition="66" endLine="168" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="171" startPosition="49" endLine="172" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="175" startPosition="61" endLine="176" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="176" startPosition="34" endLine="177" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="73" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Target_myTarget#()V" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="182" startPosition="0" endLine="184" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TargetProperties#()V" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="185" startPosition="0" endLine="187" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="storeValues#(Ljava/util/Map;Ljetbrains/mps/make/script/IPropertiesPool;)V" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="40" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="BFacet4_Facet#()V" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="44" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="targets#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="48" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="optional#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="52" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="required#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="56" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="extended#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="60" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljetbrains/mps/make/facet/IFacet/Name;" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="64" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="propertiesPersistence#()Ljetbrains/mps/make/resources/IPropertiesPersistence;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="127" startPosition="0" endLine="130" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConfig#()Ljetbrains/mps/make/script/IConfig;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="131" startPosition="0" endLine="134" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="notAfter#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="135" startPosition="0" endLine="138" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="after#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="139" startPosition="0" endLine="142" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="notBefore#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="143" startPosition="0" endLine="146" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="before#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="147" startPosition="0" endLine="150" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljetbrains/mps/make/facet/ITarget/Name;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="151" startPosition="0" endLine="154" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isOptional#()Z" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="155" startPosition="0" endLine="158" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="requiresInput#()Z" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="159" startPosition="0" endLine="162" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="producesOutput#()Z" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="163" startPosition="0" endLine="166" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="expectedInput#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="167" startPosition="0" endLine="170" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="expectedOutput#()Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="171" startPosition="0" endLine="174" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createParameters#(Ljava/lang/Class;)null" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="188" startPosition="83" endLine="191" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="175" startPosition="0" endLine="179" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createParameters#(Ljava/lang/Class;null)null" />
+    <nodeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="188" startPosition="0" endLine="193" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="loadValues#(Ljava/util/Map;Ljetbrains/mps/make/script/IPropertiesPool;)V" />
+    <nodeInfo nodeId="1534429123296044376" fileName="BFacet4_Facet.java" startLine="97" startPosition="59" endLine="106" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1534429123296044376" fileName="BFacet4_Facet.java" startLine="95" startPosition="99" endLine="107" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1534429123296044373" fileName="BFacet4_Facet.java" startLine="94" startPosition="93" endLine="108" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1534429123296044366" fileName="BFacet4_Facet.java" startLine="92" startPosition="43" endLine="111" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="1534429123296044364" fileName="BFacet4_Facet.java" startLine="92" startPosition="0" endLine="113" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="1534429123296044360" fileName="BFacet4_Facet.java" startLine="90" startPosition="62" endLine="113" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123296044358" fileName="BFacet4_Facet.java" startLine="90" startPosition="0" endLine="116" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+    <nodeInfo nodeId="1534429123296044352" fileName="BFacet4_Facet.java" startLine="88" startPosition="0" endLine="116" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123292377365" fileName="BFacet4_Facet.java" startLine="86" startPosition="0" endLine="119" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/resources/MResource;)V" />
+    <nodeInfo nodeId="1534429123292377360" fileName="BFacet4_Facet.java" startLine="84" startPosition="0" endLine="119" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="81" startPosition="86" endLine="122" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+    <nodeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="78" startPosition="0" endLine="124" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljava/lang/Iterable;Ljetbrains/mps/make/script/IJobMonitor;Ljetbrains/mps/make/resources/IPropertiesAccessor;Lorg/jetbrains/mps/openapi/util/ProgressMonitor;)Ljetbrains/mps/make/script/IResult;" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="76" startPosition="29" endLine="124" endPosition="8" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="76" startPosition="0" endLine="126" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createJob#()Ljetbrains/mps/make/script/IJob;" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="73" startPosition="30" endLine="73" endPosition="30" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="182" startPosition="31" endLine="182" endPosition="31" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="185" startPosition="84" endLine="185" endPosition="84" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="189" startPosition="11" endLine="189" endPosition="11" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="190" startPosition="0" endLine="190" endPosition="37">
+      <varInfo nodeId="1534429123292255749" varName="re" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="190" startPosition="37" endLine="190" endPosition="37" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="40" startPosition="26" endLine="41" endPosition="83" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="44" startPosition="38" endLine="45" endPosition="19" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="48" startPosition="43" endLine="49" endPosition="16" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="52" startPosition="43" endLine="53" endPosition="154" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="56" startPosition="43" endLine="57" endPosition="16" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="60" startPosition="32" endLine="61" endPosition="21" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="64" startPosition="57" endLine="65" endPosition="48" />
+    <scopeInfo nodeId="1534429123296044450" fileName="BFacet4_Facet.java" startLine="109" startPosition="0" endLine="110" endPosition="58">
+      <varInfo nodeId="1534429123296044451" varName="e" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123296044453" fileName="BFacet4_Facet.java" startLine="109" startPosition="49" endLine="110" endPosition="58" />
+    <scopeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="120" startPosition="20" endLine="121" endPosition="61" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="127" startPosition="35" endLine="128" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="131" startPosition="46" endLine="132" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="135" startPosition="43" endLine="136" endPosition="116" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="139" startPosition="47" endLine="140" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="143" startPosition="44" endLine="144" endPosition="115" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="147" startPosition="35" endLine="148" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="151" startPosition="33" endLine="152" endPosition="19" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="155" startPosition="36" endLine="156" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="159" startPosition="37" endLine="160" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="163" startPosition="65" endLine="164" endPosition="48" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="167" startPosition="66" endLine="168" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="171" startPosition="49" endLine="172" endPosition="18" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="73" startPosition="0" endLine="75" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="175" startPosition="61" endLine="177" endPosition="15">
+      <varInfo nodeId="1534429123292255837" varName="t" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="182" startPosition="0" endLine="184" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="185" startPosition="0" endLine="187" endPosition="0">
+      <varInfo nodeId="1534429123292255749" varName="properties" />
+      <varInfo nodeId="1534429123292255749" varName="store" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="40" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="44" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="48" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="52" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="56" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="60" startPosition="0" endLine="63" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="64" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="127" startPosition="0" endLine="130" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="131" startPosition="0" endLine="134" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="135" startPosition="0" endLine="138" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="139" startPosition="0" endLine="142" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="143" startPosition="0" endLine="146" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="147" startPosition="0" endLine="150" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="151" startPosition="0" endLine="154" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="155" startPosition="0" endLine="158" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="159" startPosition="0" endLine="162" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="163" startPosition="0" endLine="166" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="167" startPosition="0" endLine="170" endPosition="0" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="171" startPosition="0" endLine="174" endPosition="0">
+      <varInfo nodeId="1534429123292255837" varName="cls" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="188" startPosition="83" endLine="191" endPosition="7" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="175" startPosition="0" endLine="179" endPosition="0">
+      <varInfo nodeId="1534429123292255837" varName="cls" />
+      <varInfo nodeId="1534429123292255837" varName="copyFrom" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="188" startPosition="0" endLine="193" endPosition="0">
+      <varInfo nodeId="1534429123292255749" varName="properties" />
+      <varInfo nodeId="1534429123292255749" varName="store" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123296044378" fileName="BFacet4_Facet.java" startLine="98" startPosition="116" endLine="105" endPosition="44">
+      <varInfo nodeId="1534429123296044380" varName="file" />
+      <varInfo nodeId="1534429123297534884" varName="fileDir" />
+      <varInfo nodeId="1534429123297485715" varName="modelPath" />
+      <varInfo nodeId="1534429123296044414" varName="w" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123296044376" fileName="BFacet4_Facet.java" startLine="96" startPosition="31" endLine="106" endPosition="33">
+      <varInfo nodeId="1534429123296044376" varName="rootNodeM" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123296044375" fileName="BFacet4_Facet.java" startLine="95" startPosition="99" endLine="107" endPosition="31" />
+    <scopeInfo nodeId="1534429123296044373" fileName="BFacet4_Facet.java" startLine="94" startPosition="93" endLine="108" endPosition="29">
+      <varInfo nodeId="1534429123296044374" varName="rootNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123296044367" fileName="BFacet4_Facet.java" startLine="93" startPosition="31" endLine="108" endPosition="29">
+      <varInfo nodeId="1534429123296044369" varName="outputPath" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123296044365" fileName="BFacet4_Facet.java" startLine="92" startPosition="43" endLine="111" endPosition="27" />
+    <scopeInfo nodeId="1534429123296044364" fileName="BFacet4_Facet.java" startLine="92" startPosition="0" endLine="113" endPosition="0" />
+    <scopeInfo nodeId="1534429123296044359" fileName="BFacet4_Facet.java" startLine="90" startPosition="62" endLine="114" endPosition="0" />
+    <scopeInfo nodeId="1534429123296044358" fileName="BFacet4_Facet.java" startLine="90" startPosition="0" endLine="116" endPosition="0">
+      <varInfo nodeId="1534429123296044358" varName="curModel" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292377368" fileName="BFacet4_Facet.java" startLine="86" startPosition="51" endLine="117" endPosition="0" />
+    <scopeInfo nodeId="1534429123292377365" fileName="BFacet4_Facet.java" startLine="86" startPosition="0" endLine="119" endPosition="0">
+      <varInfo nodeId="1534429123292377365" varName="inpt" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="83" startPosition="19" endLine="119" endPosition="17" />
+    <scopeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="79" startPosition="173" endLine="122" endPosition="11">
+      <varInfo nodeId="1534429123292255839" varName="_output_4hggtb_a0a" />
+      <varInfo nodeId="1534429123292255839" varName="input" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="78" startPosition="0" endLine="124" endPosition="0">
+      <varInfo nodeId="1534429123292255839" varName="monitor" />
+      <varInfo nodeId="1534429123292255839" varName="pa" />
+      <varInfo nodeId="1534429123292255839" varName="progressMonitor" />
+      <varInfo nodeId="1534429123292255839" varName="rawInput" />
+    </scopeInfo>
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="76" startPosition="29" endLine="124" endPosition="8" />
+    <scopeInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="76" startPosition="0" endLine="126" endPosition="0" />
+    <unitInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="181" startPosition="0" endLine="194" endPosition="0" unitName="BFacets4.plugin.BFacet4_Facet$TargetProperties" />
+    <unitInfo nodeId="1534429123296044364" fileName="BFacet4_Facet.java" startLine="91" startPosition="63" endLine="113" endPosition="23" unitName="BFacets4.plugin.BFacet4_Facet$4" />
+    <unitInfo nodeId="1534429123296044358" fileName="BFacet4_Facet.java" startLine="89" startPosition="68" endLine="116" endPosition="19" unitName="BFacets4.plugin.BFacet4_Facet$3" />
+    <unitInfo nodeId="1534429123292377365" fileName="BFacet4_Facet.java" startLine="85" startPosition="56" endLine="119" endPosition="15" unitName="BFacets4.plugin.BFacet4_Facet$2" />
+    <unitInfo nodeId="1534429123292255839" fileName="BFacet4_Facet.java" startLine="77" startPosition="17" endLine="124" endPosition="7" unitName="BFacets4.plugin.BFacet4_Facet$1" />
+    <unitInfo nodeId="1534429123292255837" fileName="BFacet4_Facet.java" startLine="68" startPosition="0" endLine="180" endPosition="0" unitName="BFacets4.plugin.BFacet4_Facet$Target_myTarget" />
+    <unitInfo nodeId="1534429123292255749" fileName="BFacet4_Facet.java" startLine="36" startPosition="0" endLine="195" endPosition="0" unitName="BFacets4.plugin.BFacet4_Facet" />
+  </root>
+  <root nodeRef="r:3407fc94-aa78-4309-a3d9-bbdf33ee768c(BFacets4.plugin)/1534429123292398727">
+    <nodeInfo nodeId="9109095660049915145" fileName="NewGenUtils4.java" startLine="26" startPosition="17" endLine="27" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9109095660049915155" fileName="NewGenUtils4.java" startLine="29" startPosition="17" endLine="30" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9109095660049915161" fileName="NewGenUtils4.java" startLine="31" startPosition="96" endLine="32" endPosition="163" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9109095660049915187" fileName="NewGenUtils4.java" startLine="32" startPosition="163" endLine="33" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9109095660049915193" fileName="NewGenUtils4.java" startLine="33" startPosition="50" endLine="34" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9109095660049915201" fileName="NewGenUtils4.java" startLine="34" startPosition="82" endLine="35" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1534429123290457821" fileName="NewGenUtils4.java" startLine="35" startPosition="103" endLine="36" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9109095660049915239" fileName="NewGenUtils4.java" startLine="36" startPosition="103" endLine="37" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9109095660049915259" fileName="NewGenUtils4.java" startLine="41" startPosition="35" endLine="42" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+    <nodeInfo nodeId="9109095660049915278" fileName="NewGenUtils4.java" startLine="45" startPosition="11" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="9109095660049915155" fileName="NewGenUtils4.java" startLine="30" startPosition="39" endLine="38" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="9109095660049915155" fileName="NewGenUtils4.java" startLine="28" startPosition="85" endLine="39" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="9109095660049915150" fileName="NewGenUtils4.java" startLine="27" startPosition="79" endLine="40" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="9109095660049915143" fileName="NewGenUtils4.java" startLine="25" startPosition="29" endLine="43" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="9109095660049915141" fileName="NewGenUtils4.java" startLine="25" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="9109095660049915137" fileName="NewGenUtils4.java" startLine="23" startPosition="48" endLine="45" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9109095660049915135" fileName="NewGenUtils4.java" startLine="23" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+    <nodeInfo nodeId="9109095660049915129" fileName="NewGenUtils4.java" startLine="21" startPosition="116" endLine="48" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9109095660049915287" fileName="NewGenUtils4.java" startLine="21" startPosition="0" endLine="50" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="processResources#(Ljetbrains/mps/baseLanguage/tuples/runtime/Tuples/_0;Lorg/jetbrains/mps/openapi/util/ProgressMonitor;Ljava/lang/String;)V" />
+    <scopeInfo nodeId="9109095660049915255" fileName="NewGenUtils4.java" startLine="41" startPosition="0" endLine="42" endPosition="44">
+      <varInfo nodeId="9109095660049915256" varName="e" />
+    </scopeInfo>
+    <scopeInfo nodeId="9109095660049915258" fileName="NewGenUtils4.java" startLine="41" startPosition="35" endLine="42" endPosition="44" />
+    <scopeInfo nodeId="9109095660049915157" fileName="NewGenUtils4.java" startLine="31" startPosition="96" endLine="37" endPosition="30">
+      <varInfo nodeId="9109095660049915162" varName="file" />
+      <varInfo nodeId="9109095660049915194" varName="w" />
+    </scopeInfo>
+    <scopeInfo nodeId="9109095660049915155" fileName="NewGenUtils4.java" startLine="29" startPosition="17" endLine="38" endPosition="19">
+      <varInfo nodeId="9109095660049915155" varName="nfc" />
+    </scopeInfo>
+    <scopeInfo nodeId="9109095660049915152" fileName="NewGenUtils4.java" startLine="28" startPosition="85" endLine="39" endPosition="17" />
+    <scopeInfo nodeId="9109095660049915150" fileName="NewGenUtils4.java" startLine="27" startPosition="79" endLine="40" endPosition="15">
+      <varInfo nodeId="9109095660049915151" varName="rootNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="9109095660049915144" fileName="NewGenUtils4.java" startLine="26" startPosition="17" endLine="40" endPosition="15">
+      <varInfo nodeId="9109095660049915146" varName="outputPath" />
+    </scopeInfo>
+    <scopeInfo nodeId="9109095660049915142" fileName="NewGenUtils4.java" startLine="25" startPosition="29" endLine="43" endPosition="13" />
+    <scopeInfo nodeId="9109095660049915141" fileName="NewGenUtils4.java" startLine="25" startPosition="0" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="9109095660049915136" fileName="NewGenUtils4.java" startLine="23" startPosition="48" endLine="46" endPosition="0" />
+    <scopeInfo nodeId="9109095660049915135" fileName="NewGenUtils4.java" startLine="23" startPosition="0" endLine="48" endPosition="0">
+      <varInfo nodeId="9109095660049915135" varName="curModel" />
+    </scopeInfo>
+    <scopeInfo nodeId="9109095660049915128" fileName="NewGenUtils4.java" startLine="21" startPosition="116" endLine="48" endPosition="7" />
+    <scopeInfo nodeId="9109095660049915287" fileName="NewGenUtils4.java" startLine="21" startPosition="0" endLine="50" endPosition="0">
+      <varInfo nodeId="9109095660050178716" varName="fileExtension" />
+      <varInfo nodeId="9109095660049915281" varName="inpt" />
+      <varInfo nodeId="9109095660051797783" varName="progressMonitor" />
+    </scopeInfo>
+    <unitInfo nodeId="9109095660049915141" fileName="NewGenUtils4.java" startLine="24" startPosition="49" endLine="45" endPosition="9" unitName="BFacets4.plugin.NewGenUtils4$2" />
+    <unitInfo nodeId="9109095660049915135" fileName="NewGenUtils4.java" startLine="22" startPosition="54" endLine="48" endPosition="5" unitName="BFacets4.plugin.NewGenUtils4$1" />
+    <unitInfo nodeId="1534429123292398727" fileName="NewGenUtils4.java" startLine="20" startPosition="0" endLine="53" endPosition="0" unitName="BFacets4.plugin.NewGenUtils4" />
+  </root>
+</debugInfo>
+

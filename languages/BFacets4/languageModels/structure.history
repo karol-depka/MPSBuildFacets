@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="akdr" modelUID="r:8d27b0ae-8f4e-4582-83fb-ef8770c20804(BFacets4.structure)" version="-1" />
+    </dependencies>
+    <rename id="akdr.1534429123292410430" type="CONCEPT" from="ProteinMock" to="RootConceptMock" />
+  </StructureModification>
+</history>
+

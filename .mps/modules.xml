@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/BFacets4/BFacets4.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/BFacets4/runtime/BFacets4.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/BFacets4/sandbox/BFacets4.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
+

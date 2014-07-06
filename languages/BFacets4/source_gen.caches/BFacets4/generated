@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-d9rrl6g4bcd316ajluxu4qca6vvnrmi">
+  <dep model="r:61604a2b-6bf7-4374-91f1-8c111bf7b852(BFacets4.editor)" hash="6hsazfh0d6005v9rbp22az47502r5es" />
+  <dep model="r:6b32706e-ba6f-4408-90fa-670411ffc99b(BFacets4.typesystem)" hash="-994ukmijrdnsw1skc850sh0nd8ddg7d" />
+  <common>
+    <dep model="r:61604a2b-6bf7-4374-91f1-8c111bf7b852(BFacets4.editor)" />
+    <dep model="r:6b32706e-ba6f-4408-90fa-670411ffc99b(BFacets4.typesystem)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+
