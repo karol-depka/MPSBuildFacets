@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="7pw554m2f07hllbj1g8n8dvkxca9uga">
+<dependencies version="2" modelHash="y7s2y0wmhdvy3lcqrsh3kit75yzsl6">
   <common hash="buf9gnzv7bg9rz70p10wbz0hoz83x3f" />
-  <source id="1534429123292432643" name="BFacets4ProteinMock2" hash="-93hkdezkj84tp5cldvjedks811dtyw6">
-    <file name="BFacets4ProteinMock2" />
+  <source id="1534429123292432643" name="ExampleRootNode" hash="-4ltybzvt1x5wpk5mafp9sg6jfoad4em">
+    <file name="ExampleRootNode" />
   </source>
 </dependencies>
 

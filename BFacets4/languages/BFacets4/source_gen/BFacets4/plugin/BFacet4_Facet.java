@@ -84,7 +84,7 @@ public class BFacet4_Facet extends IFacet.Stub {
 
               Sequence.fromIterable(input).visitAll(new IVisitor<MResource>() {
                 public void visit(MResource inpt) {
-                  monitor.currentProgress().beginWork("Generating myTarget", Sequence.fromIterable(input).count() * 100, monitor.currentProgress().workLeft());
+                  monitor.currentProgress().beginWork("myTarget", Sequence.fromIterable(input).count(), monitor.currentProgress().workLeft());
 
                   Sequence.fromIterable(inpt.models()).visitAll(new IVisitor<SModel>() {
                     public void visit(final SModel curModel) {

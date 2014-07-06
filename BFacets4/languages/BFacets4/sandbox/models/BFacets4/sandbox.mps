@@ -6,7 +6,7 @@
   <import index="akdr" modelUID="r:8d27b0ae-8f4e-4582-83fb-ef8770c20804(BFacets4.structure)" version="0" implicit="yes" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <root type="akdr.RootConceptMock" typeId="akdr.1534429123292410430" id="1534429123292432643" nodeInfo="ng">
-    <property name="name" nameId="tpck.1169194664001" value="BFacets4ProteinMock2" />
+    <property name="name" nameId="tpck.1169194664001" value="ExampleRootNode" />
   </root>
 </model>
 
